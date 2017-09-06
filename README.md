@@ -1,2 +1,1 @@
-# pig-react
-pig-react
+pig react frontend
